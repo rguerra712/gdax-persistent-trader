@@ -1,0 +1,14 @@
+{
+  "name": "gdax-persistent-trader",
+  "version": "1.0.0",
+  "description": "Using AWS, persistently continue to trade until an order is fulfilled",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"no tests yet, bad me\""
+  },
+  "author": "R. Stephen Guerra",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "gdax": "^0.6.0"
+  }
+}
